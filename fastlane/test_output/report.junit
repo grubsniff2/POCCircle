@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='CirclePOCTests.xctest' tests='3' failures='0'>
+  <testsuite name='CirclePOCUITests.CirclePOCUITests' tests='1' failures='0'>
+    <testcase classname='CirclePOCUITests.CirclePOCUITests' name='testExample' time='3.967'/>
+  </testsuite>
+  <testsuite name='CirclePOCTests.CirclePOCTests' tests='2' failures='0'>
+    <testcase classname='CirclePOCTests.CirclePOCTests' name='testExample' time='0.001'/>
+    <testcase classname='CirclePOCTests.CirclePOCTests' name='testPerformanceExample' time='0.380'/>
+  </testsuite>
+</testsuites>
